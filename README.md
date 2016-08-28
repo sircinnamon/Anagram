@@ -5,4 +5,4 @@ Generates anagrams given a dictionary and some text.
 
 Anagram.java was first attempt, FastAnagram.java is far superior.
 
-java FastAnagram <input text> <dictionary file>
+java FastAnagram input dictionary.txt
